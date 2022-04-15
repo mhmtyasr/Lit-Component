@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@lit/reactive-element": "^1.0.0",
+    "lit": "^2.2.2",
+    "lit-element": "^3.0.0",
+    "lit-html": "^2.0.0"
+  },
+  "scripts": {
+    "serve": "es-dev-server --app-index index.html --node-resolve --watch --open"
+  },
+  "devDependencies": {
+    "es-dev-server": "^2.1.0"
+  }
+}
